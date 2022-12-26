@@ -1,0 +1,6 @@
+- Thêm ví dụ
+- Thêm tool
+- Thêm giải thích từng sheet
+- Thêm 1 đát bót nữa.
+- Thiếu point of view
+- cắt chart thành từng cột, không để full màn hình

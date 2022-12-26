@@ -1,0 +1,5 @@
+- Sau mỗi diagram cần 1 text mô tả. (xong)
+- Lấy ví dụ trong công ty (trong diagram process)
+- Bổ sung list software (phần mềm quản lý bán hàng)
+- Bổ sung ví dụ về chiến lược (phần 3)
+- Bổ sung phần đóng góp của từng người

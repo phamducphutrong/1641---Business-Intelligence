@@ -1,0 +1,13 @@
+Description for deciding of opening new branches:
+The decision to open a new branch is under the authority of the CEO, he needs to evaluate and consider factors to be able to make this decision. The first factor should examine the company's revenue and profit. He will send a request for a revenue report to the finance department. If this factor is assessed as having enough financial capacity to open a new facility, the second element will come. In the second factor, the CEO needs to evaluate the percentage of shoppers on two platforms, direct trade and online shopping. This parameter will be provided by the sales department. The CEO, after completing the assessment, will make the final decision.
+
+
+
+
+
+
+
+
+
+Description for ordering business process:
+The ordering process has 3 participants: customers, employees and carriers. Customers first require a laptop, then the staff will receive the request. The staff will check if the laptop ordered by the customer is available or not. If so, the staff will set up the order, send the invoice to the customer. The guest will receive the bill and pay it. The staff approves the payment and sends the customer and laptop information to the carrier. The carrier is responsible for transporting the laptop to the destination.

@@ -1,0 +1,9 @@
+thay chữ viết tắt bằng chữ tường minh (M => Male)
+cột tuôi: thay bằng 2 cột là min và max. 
+1 và unknown là 1 đến vô cùng
+ông nào null thì đổi thành chưa kết hôn
+U đổi thành unknown
+ô nào null thì đổi thành thuê nhà
+chỉ giữ lại tên education và bỏ số
+đổi viết tắt thành highschool
+cột fam_income đổi thành số.
